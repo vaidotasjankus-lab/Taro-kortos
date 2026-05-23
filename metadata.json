@@ -1,0 +1,6 @@
+{
+  "name": "Taro Kortos",
+  "description": "Lietuviškas asmeninis Taro kortų būrimas ir interpretavimas su trijų stilių vizualizacija.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
